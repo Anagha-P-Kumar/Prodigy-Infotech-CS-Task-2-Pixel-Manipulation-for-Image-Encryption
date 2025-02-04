@@ -29,7 +29,3 @@ This script provides a simple image encryption and decryption tool using pixel s
 2. Run the script using `python script.py`.
 3. The encrypted image will be saved as `encrypted.jpg`.
 4. The decrypted image will be saved as `decrypted.jpg`.
-
-## Customization
-- Modify `image_path` to specify a different input image.
-- Change the `key` value to use a different encryption key.
